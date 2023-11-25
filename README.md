@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://huddlelandingpagenov20.netlify.app/)
+- Live Site URL: [hdlpnov20.netlify.app/](https://hdlpnov20.netlify.app/))
 
 ## My process
 
