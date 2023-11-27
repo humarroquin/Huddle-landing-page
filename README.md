@@ -36,4 +36,4 @@ Users should be able to:
 
 ### What I learned
 
-I didn’t learn anything in particular from this challenge, but it helped me practice what I’ve learned so far in HTML and CSS.
+Put into practice what I've learned so far with HTML and CSS.
